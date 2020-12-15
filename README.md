@@ -1,4 +1,4 @@
 # lending-club-analysis
 Notebook to analyze Lending Club's loan data
 
-End to end data science project, including data processing, EDA, analysis, and modeling.
+End to end data science project, including data processing, EDA, analysis, and modeling. Performed in 2020.
